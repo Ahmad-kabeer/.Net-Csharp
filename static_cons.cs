@@ -23,4 +23,4 @@ namespace ConsoleApp1
 
 /// point to remember
 /// 1. if a class contain any static variable then only implicit static constructor will be present otherwise we need to define them explicity whereas non-static constructor will be implicitly defined in every class (except static class)
-/// 2. static constructor are responsible in initializing static varieble and these constructor are  called only implicitly no need to create and the static constructor execute first by implicitly.
+/// 2. static constructor are responsible in initializing static varieble and these constructor are  called only implicitly no need to create object and the static constructor execute first by implicitly.
